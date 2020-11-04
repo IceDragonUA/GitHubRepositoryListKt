@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubRepositories</string>
+
+    <string name="repositories">Github Repository Search</string>
+    <string name="search">Enter repository name</string>
+    <string name="result">No results</string>
+    <string name="loading">Loading...</string>
+    <string name="none">-</string>
+</resources>
